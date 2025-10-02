@@ -31,5 +31,6 @@ I am a Tufts University student majoring in computer science and minoring in his
 ## Contact  
 - Email: bryan.cho@tufts.edu
 - Phone Number: 315-542-2284
+- Linkedin: (https://www.linkedin.com/in/bryan-cho-9b10b62aa/)
 
 
