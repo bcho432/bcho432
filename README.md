@@ -21,7 +21,7 @@ I am a Tufts University student majoring in computer science and minoring in his
 ---
 
 ## Skills  
-- **Languages:** Python, C, C++, JavaScript, TypeScript
+- **Languages:** C, C++, Python, JavaScript, TypeScript
 - **Frameworks:** HTML, CSS, React, Next.js,
 - **Databases:** MongoDB, Supabase, PostgreSQL
 - **Other:** Git, Vercel, Linux 
