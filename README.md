@@ -12,7 +12,7 @@ I am a Tufts University student majoring in computer science and minoring in his
 ## Projects!!!
 - [Gachon CV Manager] (https://github.com/bcho432/Gachon_Project.git) - CV Manager Application @ Gachon University
 - [Storiats] (https://github.com/bcho432/test_storiats.git) - Alumni Networking Application
-- [GPTGreen] (https://github.com/IsaacSaland/JumboHack2025.git) - Energy expenditure representation of rsers' ChatGPT conversations (Tufts Hackathon Winner!)
+- [GPTGreen] (https://github.com/IsaacSaland/JumboHack2025.git) - Energy expenditure representation of users' ChatGPT conversations (Tufts Hackathon Winner!)
 - [LocalGuide] (https://github.com/bcho432/LocalGuide.git) - Local guider for exploring unfamiliar locations such as local restaurants, concerts, supermarkets, gyms, etc.
 - [Smash 'N Bite] (https://github.com/bcho432/smashandbite.git) - Sandwich and Burger Restaurant Website (check it out if you're in the area :))
 - [Face Attendance] (https://github.com/bcho432/Face-Attendance.git) - Face Attendance Check-in Application
