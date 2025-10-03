@@ -14,7 +14,7 @@ I am a Tufts University student majoring in computer science and minoring in his
 - [Storiats] (https://github.com/bcho432/test_storiats.git) - Alumni Networking Application
 - [GPTGreen] (https://github.com/IsaacSaland/JumboHack2025.git) - Energy expenditure representation of users' ChatGPT conversations (Tufts Hackathon Winner of 2025!)
 - [LocalGuide] (https://github.com/bcho432/LocalGuide.git) - Local guider for exploring unfamiliar locations such as local restaurants, concerts, supermarkets, gyms, etc.
-- [Smash 'N Bite] (https://github.com/bcho432/smashandbite.git) - Sandwich and Burger Restaurant Website (check it out if you're in the area :))
+- [Smash 'N Bite] (https://github.com/bcho432/smashandbite.git) - Official Sandwich and Burger Restaurant Website (check it out if you're in the area :))
 - [Face Attendance] (https://github.com/bcho432/Face-Attendance.git) - Face Attendance Check-in Application
 - [Gerp] (https://github.com/bcho432/gerp.git) - Fast searching algorithm of all instances of a word in a database
 
